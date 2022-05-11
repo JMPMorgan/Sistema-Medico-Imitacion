@@ -1,0 +1,23 @@
+﻿  Source.cpp
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(853): warning C4129: 'o': secuencia de escape de carácter no reconocida
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(853): warning C4129: 's': secuencia de escape de carácter no reconocida
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(853): warning C4129: 'P': secuencia de escape de carácter no reconocida
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2032): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2036): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2171): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2175): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2570): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2567): warning C4101: 'aux': variable local sin referencia
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2607): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2609): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(3376): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(3381): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(4002): warning C4244: 'inicializando': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(4007): warning C4018: '<': no coinciden signed/unsigned
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(5150): warning C4553: '==': el operador no tiene efecto; ¿ha pensado en '='?
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2982): warning C4715: 'verificarHorarioEntradaSalidaDoctor': no todas las rutas de acceso de control devuelven un valor
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(2960): warning C4715: 'verificarHorarioDoctor': no todas las rutas de acceso de control devuelven un valor
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(3281): warning C4715: 'verificarFechaPaciente': no todas las rutas de acceso de control devuelven un valor
+c:\users\jonaz\onedrive\documentos\visual studio 2017\projects\estructura de datos\estructura de datos\source.cpp(3834): warning C4715: 'verificacionDiaDeFecha': no todas las rutas de acceso de control devuelven un valor
+  Estructura de datos.vcxproj -> C:\Users\jonaz\onedrive\documentos\visual studio 2017\Projects\Estructura de datos\Debug\Estructura de datos.exe
+  Estructura de datos.vcxproj -> C:\Users\jonaz\onedrive\documentos\visual studio 2017\Projects\Estructura de datos\Debug\Estructura de datos.pdb (Partial PDB)
